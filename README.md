@@ -23,3 +23,19 @@ If you already have installed the API and obtained a bot API, simply clone the r
 ```python
 python3 compbot.py
 ```
+
+To test the bot, try sending:
+
+```python
+/comp python3 print("Hello World!")
+```
+
+If everything went right, you should recieve the following message:
+
+
+```
+Output: 
+Hello World!
+
+Stats: Absolute running time: 0.13 sec, cpu time: 0.09 sec, memory peak: 6 Mb, absolute service time: 0,14 sec
+```
